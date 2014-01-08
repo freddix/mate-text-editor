@@ -1,11 +1,11 @@
 Summary:	MATE text editor
 Name:		mate-text-editor
-Version:	1.6.1
+Version:	1.6.2
 Release:	1
 License:	GPL v2
 Group:		X11/Applications/Editors
 Source0:	http://pub.mate-desktop.org/releases/1.6/%{name}-%{version}.tar.xz
-# Source0-md5:	3cfbd6d709b74e57b9b907c141ba5fdb
+# Source0-md5:	518869ea16bafd951dac0ab3947c99af
 BuildRequires:	autoconf
 BuildRequires:	automake
 BuildRequires:	enchant-devel
